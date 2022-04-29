@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2021.1.24f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-E:/sound mind
+C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58618
-Successfully changed project path to: E:/sound mind
-E:/sound mind
+59264
+Successfully changed project path to: C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind
+C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 107.01 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 105.42 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.24f1 (6667702a1e7c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/sound mind/Assets
+[Subsystems] Discovering subsystems at path C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,37 +35,37 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56560
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002208 seconds.
+Registered in 0.002668 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 115.00 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 108.05 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.015 seconds
+- Completed reload, in  1.251 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2015ms)
-		BeginReloadAssembly (65ms)
+	ReloadAssembly (1251ms)
+		BeginReloadAssembly (71ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (477ms)
-			LoadAssemblies (63ms)
+		EndReloadAssembly (464ms)
+			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (157ms)
+			SetupTypeCache (154ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (245ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (238ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (115ms)
+				RefreshPlugins (108ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (94ms)
+				ProcessInitializeOnLoadAttributes (93ms)
 				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -73,37 +73,37 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003948 seconds.
+Registered in 0.006415 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image E:\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image E:\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 104.49 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 113.11 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.240 seconds
+- Completed reload, in  1.295 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1240ms)
-		BeginReloadAssembly (153ms)
+	ReloadAssembly (1296ms)
+		BeginReloadAssembly (156ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (1028ms)
-			LoadAssemblies (99ms)
+		EndReloadAssembly (1074ms)
+			LoadAssemblies (122ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (352ms)
+			SetupTypeCache (354ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (439ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (459ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (105ms)
-				BeforeProcessingInitializeOnLoad (85ms)
-				ProcessInitializeOnLoadAttributes (220ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
+				RefreshPlugins (113ms)
+				BeforeProcessingInitializeOnLoad (94ms)
+				ProcessInitializeOnLoadAttributes (224ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
 				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -112,14 +112,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.68 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.67 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3690 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 137.1 MB.
 System memory in use after: 137.3 MB.
 
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4140.
-Total: 3.554500 ms (FindLiveObjects: 0.277100 ms CreateObjectMapping: 0.151700 ms MarkObjects: 3.064000 ms  DeleteObjects: 0.060600 ms)
+Total: 3.175800 ms (FindLiveObjects: 0.273200 ms CreateObjectMapping: 0.173700 ms MarkObjects: 2.673500 ms  DeleteObjects: 0.054700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -133,13 +133,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Manos Flat Pack/Scripts
-  artifactKey: Guid(7c5c0b8741e688f4e895fc60a8558528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Manos Flat Pack/Scripts using Guid(7c5c0b8741e688f4e895fc60a8558528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '350482dfed60724cb0a037e069643f63') in 0.028065 seconds 
+  path: Assets/Manos Flat Pack/Scripts/Sequencer.cs
+  artifactKey: Guid(6f2268ff6b0fd2e4d9bd36ad3332bfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Manos Flat Pack/Scripts/Sequencer.cs using Guid(6f2268ff6b0fd2e4d9bd36ad3332bfc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89daa853955237217da59cfdfb7ae814') in 0.032036 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/Manos Flat Pack
-  artifactKey: Guid(a4a30e9ba7cc6914a974a23f42e34886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Manos Flat Pack using Guid(a4a30e9ba7cc6914a974a23f42e34886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d605830fd14ff73b6b22764061df555') in 0.006181 seconds 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+  Time since last request: 0.000325 seconds.
+  path: Assets/Manos Flat Pack/Scripts/Switch.cs
+  artifactKey: Guid(0414f2a879cfa224a99f0a4f400d8092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Manos Flat Pack/Scripts/Switch.cs using Guid(0414f2a879cfa224a99f0a4f400d8092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b39f0c1fccc9011910b60398ffcdaf7') in 0.006658 seconds 
