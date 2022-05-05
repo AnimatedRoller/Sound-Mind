@@ -350,6 +350,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Custom scripts/ChangeColor.cs"
 "Assets/Manos Flat Pack/Scripts/CameraStand.cs"
 "Assets/Manos Flat Pack/Scripts/Countdown.cs"
 "Assets/Manos Flat Pack/Scripts/Draggable.cs"

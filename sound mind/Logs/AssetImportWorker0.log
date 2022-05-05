@@ -15,11 +15,11 @@ C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58865
+59410
 Successfully changed project path to: C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind
 C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 134.98 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 135.11 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.24f1 (6667702a1e7c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/Resources/UnitySubsystems
@@ -35,35 +35,35 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56164
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002275 seconds.
+Registered in 0.002521 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 142.88 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 133.88 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.390 seconds
+- Completed reload, in  2.464 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1391ms)
-		BeginReloadAssembly (69ms)
+	ReloadAssembly (2464ms)
+		BeginReloadAssembly (84ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (521ms)
-			LoadAssemblies (67ms)
+		EndReloadAssembly (539ms)
+			LoadAssemblies (81ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (163ms)
+			SetupTypeCache (176ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (284ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (276ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (143ms)
+				RefreshPlugins (134ms)
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (101ms)
 				ProcessInitializeOnLoadMethodAttributes (33ms)
@@ -73,38 +73,38 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007990 seconds.
+Registered in 0.007168 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 137.28 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 133.61 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.446 seconds
+- Completed reload, in  1.430 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1447ms)
-		BeginReloadAssembly (161ms)
+	ReloadAssembly (1430ms)
+		BeginReloadAssembly (163ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (1218ms)
-			LoadAssemblies (115ms)
+		EndReloadAssembly (1204ms)
+			LoadAssemblies (127ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (401ms)
+			SetupTypeCache (411ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (65ms)
-			SetupLoadedEditorAssemblies (540ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (517ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (137ms)
-				BeforeProcessingInitializeOnLoad (126ms)
-				ProcessInitializeOnLoadAttributes (246ms)
-				ProcessInitializeOnLoadMethodAttributes (17ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				RefreshPlugins (134ms)
+				BeforeProcessingInitializeOnLoad (122ms)
+				ProcessInitializeOnLoadAttributes (234ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
@@ -112,14 +112,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 1.95 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 3.38 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 180.3 MB.
+System memory in use before: 180.4 MB.
 System memory in use after: 180.6 MB.
 
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 5253.
-Total: 4.091300 ms (FindLiveObjects: 0.350300 ms CreateObjectMapping: 0.212700 ms MarkObjects: 3.494000 ms  DeleteObjects: 0.032900 ms)
+Total: 4.053800 ms (FindLiveObjects: 0.440800 ms CreateObjectMapping: 0.225700 ms MarkObjects: 3.358900 ms  DeleteObjects: 0.027200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -133,654 +133,49 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 1 - Camera Change.jpg
-  artifactKey: Guid(1871a956ec7514e40a5d8b17cc810756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 1 - Camera Change.jpg using Guid(1871a956ec7514e40a5d8b17cc810756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be7151cedb5760d26c7294213941ef8') in 0.134915 seconds 
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53795863f5025a78ad97d4580c41ae4') in 0.231043 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Sound of Mind - Place Holders/Fish Asset Placeholder.jpg
-  artifactKey: Guid(688978bd252be1640927ab78da91c3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Fish Asset Placeholder.jpg using Guid(688978bd252be1640927ab78da91c3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d2d6629b9e7cca5bd77c0ddb2a29a1') in 0.039681 seconds 
+  Time since last request: 0.000181 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+  artifactKey: Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat using Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c352fea17cf1511555da079bbab90218') in 0.020593 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000306 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Entry - Class.jpg
-  artifactKey: Guid(c65f6bdeea9cfae4f9d6e499ec8c4124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Entry - Class.jpg using Guid(c65f6bdeea9cfae4f9d6e499ec8c4124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c8b6ef1e6caccde39dda1a92c3d5b2') in 0.034518 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000347 seconds.
-  path: Assets/Sound of Mind - Place Holders/Creature Asset Place Holder.jpg
-  artifactKey: Guid(a7138691d0c2be549890b2a7694b657e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Creature Asset Place Holder.jpg using Guid(a7138691d0c2be549890b2a7694b657e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f45e3fa44fa6dc065b4b82b77e5595') in 0.032656 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Entry - Information.jpg
-  artifactKey: Guid(e15f424ee8f9c92408fe83cca10ddabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Entry - Information.jpg using Guid(e15f424ee8f9c92408fe83cca10ddabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0167c886729779e3fbf54f4575ee0887') in 0.037659 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Creature Entry 2 - Camera Change.jpg
-  artifactKey: Guid(777f8a990d8ea544e91935c51468f785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Creature Entry 2 - Camera Change.jpg using Guid(777f8a990d8ea544e91935c51468f785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8d09d12bb89cff9797b9d7162d29aa') in 0.042085 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Sound of Mind - Place Holders/Diving Bell - Camera Change.jpg
-  artifactKey: Guid(6690bcb5b086df0429a27aed145a2ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Diving Bell - Camera Change.jpg using Guid(6690bcb5b086df0429a27aed145a2ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7feaf940001c1448651b06bbfbd371c9') in 0.031638 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Fish Category - Camera Change.jpg
-  artifactKey: Guid(2666f36f49b7da746b167adb69d03d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Fish Category - Camera Change.jpg using Guid(2666f36f49b7da746b167adb69d03d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd779ba736f2c7cbbdafff8ef2523a7a5') in 0.031329 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Diary Category Camera Change.jpg
-  artifactKey: Guid(81a904a60bd0f8b458539230765f0d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Diary Category Camera Change.jpg using Guid(81a904a60bd0f8b458539230765f0d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6703fbb2ec9c94d4c555e13ebd6a2a') in 0.041027 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Entry - Name.jpg
-  artifactKey: Guid(e956fa439bb98a3438cf074b86ff9ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Entry - Name.jpg using Guid(e956fa439bb98a3438cf074b86ff9ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060ba891155b4b63f54dab4a63a75361') in 0.029280 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Sound of Mind - Place Holders
-  artifactKey: Guid(f22087ebe7e7dc841bc7e6485e4a4b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders using Guid(f22087ebe7e7dc841bc7e6485e4a4b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e85134344649565442d5eab58da2054') in 0.007530 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Creature Category - Camera Change.jpg
-  artifactKey: Guid(8336ce99611fe3b479328a2b5c873eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Creature Category - Camera Change.jpg using Guid(8336ce99611fe3b479328a2b5c873eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b27d8474bd90fa291fcfa1c81ddc3b') in 0.025584 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 3 - Camera Change.jpg
-  artifactKey: Guid(d1fc20e38b7ff1e4babfd7b4afd5ce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 3 - Camera Change.jpg using Guid(d1fc20e38b7ff1e4babfd7b4afd5ce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d6ccbea17edce76f3e419de166a414') in 0.026009 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Creature Entry 5 - Camera Change.jpg
-  artifactKey: Guid(16065e5b0d3922a4588ab985fbb7ee1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Creature Entry 5 - Camera Change.jpg using Guid(16065e5b0d3922a4588ab985fbb7ee1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9b0599dadb02e7ecf6cf279751f373') in 0.022150 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 4 - Camera Change.jpg
-  artifactKey: Guid(a86e4d4a7b44f36479f5154a84a0a67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 4 - Camera Change.jpg using Guid(a86e4d4a7b44f36479f5154a84a0a67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38762f582f823e09f38c9ec6a955580f') in 0.027806 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 2 - Camera Change.jpg
-  artifactKey: Guid(90161ca0b6212c043abe3e3d2f7d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 2 - Camera Change.jpg using Guid(90161ca0b6212c043abe3e3d2f7d1ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112ff203216e14b4e95eb0c0388376a7') in 0.025211 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Creature Entry 4 - Camera Change.jpg
-  artifactKey: Guid(6740b70d542b9fc4f9e39bbaa448d815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Creature Entry 4 - Camera Change.jpg using Guid(6740b70d542b9fc4f9e39bbaa448d815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7bc01467e494dc29b9a8360ce1205b') in 0.024150 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal Activate Camera.jpg
-  artifactKey: Guid(cbf4745ff99d485438caad00868c8dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal Activate Camera.jpg using Guid(cbf4745ff99d485438caad00868c8dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509abc65cb6cf7c4e5569cf1a8066b45') in 0.022909 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Creature Entry 1 - Camera Change.jpg
-  artifactKey: Guid(17cf9c21d67f4f84baa1c72edbf0d33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Creature Entry 1 - Camera Change.jpg using Guid(17cf9c21d67f4f84baa1c72edbf0d33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60518fd30c5c265320c4d29ef0e6fe4') in 0.027454 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 1 - Camera Change.jpg
-  artifactKey: Guid(6293e018e9475d249ad7f58e035aff4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 1 - Camera Change.jpg using Guid(6293e018e9475d249ad7f58e035aff4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca71658217d53cbf6781d93ce570f110') in 0.023935 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 5 - Camera Change.jpg
-  artifactKey: Guid(1157e01ce599b5f4bb466a73c01a6a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 5 - Camera Change.jpg using Guid(1157e01ce599b5f4bb466a73c01a6a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c27f5a844b93fe6566db93baa734638') in 0.026313 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Monster Category - Camera Change.jpg
-  artifactKey: Guid(edf9e5b055ebc204885e0deee879c729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Monster Category - Camera Change.jpg using Guid(edf9e5b055ebc204885e0deee879c729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f6728667ecc56e092fb5b06928fae0') in 0.025208 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 5 - Camera Change.jpg
-  artifactKey: Guid(a8d5f0670aabad24fa8f4275e6e26975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 5 - Camera Change.jpg using Guid(a8d5f0670aabad24fa8f4275e6e26975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60df4e763a1257bb325c27e137690736') in 0.021819 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Sound of Mind - Place Holders/Montser Asset Place Holder.jpg
-  artifactKey: Guid(845a71908c095e64e8b14b1fbb5be9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Montser Asset Place Holder.jpg using Guid(845a71908c095e64e8b14b1fbb5be9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b13c61b25a396f3463a51ba24637c6') in 0.022875 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 3 - Camera Change.jpg
-  artifactKey: Guid(946e077b584e3fe4585bbfee96f1bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 3 - Camera Change.jpg using Guid(946e077b584e3fe4585bbfee96f1bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937b388cabd608aacad07057a33f9486') in 0.025926 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 2 - Camera Change.jpg
-  artifactKey: Guid(db81218d0cb387649bac3cfa719a3e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Fish Entry 2 - Camera Change.jpg using Guid(db81218d0cb387649bac3cfa719a3e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5c87c4ff8a8ba009ae260b1cd3493b') in 0.024746 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000455 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Creature Entry 3 - Camera Change.jpg
-  artifactKey: Guid(0a6ec756640e53845902aca577b0c854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Creature Entry 3 - Camera Change.jpg using Guid(0a6ec756640e53845902aca577b0c854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d77498766eb99c4b09ca9a81207ad9') in 0.026777 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000306 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Return Camera Change.jpg
-  artifactKey: Guid(3e361b29e6a2a31459a7d27ff4cd3e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Return Camera Change.jpg using Guid(3e361b29e6a2a31459a7d27ff4cd3e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5849f000bcda97c9c6b52f1e1e4b1e78') in 0.024895 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Entry - Picture.jpg
-  artifactKey: Guid(040d5d7c10db09d47a96c5bf319daf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Entry - Picture.jpg using Guid(040d5d7c10db09d47a96c5bf319daf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8f756c029180c55ae90944f4aaf22c') in 0.022608 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 4 - Camera Change.jpg
-  artifactKey: Guid(a1094df473a2a214d821b30df12fe433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal -  Monster Entry 4 - Camera Change.jpg using Guid(a1094df473a2a214d821b30df12fe433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6d9931ff8072cf31ca2b96d45ef5d80') in 0.026823 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Sound of Mind - Place Holders/Journal - Information Question Mark.jpg
-  artifactKey: Guid(497efc2489553d44880b011da82b76ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders/Journal - Information Question Mark.jpg using Guid(497efc2489553d44880b011da82b76ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084b2c4fbcae525ce7f19eb63b5d4fc0') in 0.024788 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006363 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.718 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1719ms)
-		BeginReloadAssembly (135ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (39ms)
-		EndReloadAssembly (1524ms)
-			LoadAssemblies (106ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (359ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (333ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (216ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (19ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4763 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 424.3 MB.
-System memory in use after: 424.7 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5712.
-Total: 4.194400 ms (FindLiveObjects: 0.397000 ms CreateObjectMapping: 0.279200 ms MarkObjects: 3.495800 ms  DeleteObjects: 0.021600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006358 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.199 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1199ms)
-		BeginReloadAssembly (145ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (45ms)
-		EndReloadAssembly (993ms)
-			LoadAssemblies (112ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (397ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (327ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (90ms)
-				ProcessInitializeOnLoadAttributes (214ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (10ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (20ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 423.1 MB.
-System memory in use after: 423.5 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5715.
-Total: 4.371500 ms (FindLiveObjects: 0.522900 ms CreateObjectMapping: 0.304200 ms MarkObjects: 3.522800 ms  DeleteObjects: 0.020800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006287 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.217 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1217ms)
-		BeginReloadAssembly (139ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (40ms)
-		EndReloadAssembly (1017ms)
-			LoadAssemblies (108ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (359ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (50ms)
-			SetupLoadedEditorAssemblies (354ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (89ms)
-				ProcessInitializeOnLoadAttributes (235ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
-				AfterProcessingInitializeOnLoad (10ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (38ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 423.1 MB.
-System memory in use after: 423.6 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5718.
-Total: 3.948900 ms (FindLiveObjects: 0.399000 ms CreateObjectMapping: 0.243600 ms MarkObjects: 3.288200 ms  DeleteObjects: 0.017300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 2377.379667 seconds.
-  path: Assets/Sound of Mind - Place Holders 1
-  artifactKey: Guid(5b95a6bce5bcf0e4e83fcbe442ebca90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1 using Guid(5b95a6bce5bcf0e4e83fcbe442ebca90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e87423d633ffd0aeaa76746017ae23f') in 0.012223 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.024841 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Creature Asset Place Holder.png
-  artifactKey: Guid(d42a95a0918662d47834ae88177b342d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Creature Asset Place Holder.png using Guid(d42a95a0918662d47834ae88177b342d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c3f2f9876a5fc181d6b2a736c4ae87') in 0.101016 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000421 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Fish Asset Placeholder.png
-  artifactKey: Guid(735c386c3bfbd0c48af95ae4f2ba0e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Fish Asset Placeholder.png using Guid(735c386c3bfbd0c48af95ae4f2ba0e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5d929bbf11bdc612e9a1657a4182c7') in 0.023710 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 4 - Camera Change.png
-  artifactKey: Guid(f1684b195db0c10448a22c4ca30ce32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 4 - Camera Change.png using Guid(f1684b195db0c10448a22c4ca30ce32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc93a92887117b83430986b08b845c3') in 0.019463 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Information Question Mark.png
-  artifactKey: Guid(1992f100a65849f489cc26ea44a5e270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Information Question Mark.png using Guid(1992f100a65849f489cc26ea44a5e270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4490c482f4d6ae776d59923f8425def') in 0.018842 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 5 - Camera Change.png
-  artifactKey: Guid(4f84c0b68e1e07745a7b48fbe80e8c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 5 - Camera Change.png using Guid(4f84c0b68e1e07745a7b48fbe80e8c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9abbf6e59e681846af340f56a4371f50') in 0.017905 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 1 - Camera Change.png
-  artifactKey: Guid(b0f8903044892e241b4864e6a8ae6d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 1 - Camera Change.png using Guid(b0f8903044892e241b4864e6a8ae6d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a1a0ba59350f23a397ca4395a1bde1') in 0.020016 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Creature Category - Camera Change.png
-  artifactKey: Guid(3f0e34335672ffb459a0a667f5f30c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Creature Category - Camera Change.png using Guid(3f0e34335672ffb459a0a667f5f30c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa907e18870f359bd53be02fff50c5b') in 0.019464 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Entry - Information.png
-  artifactKey: Guid(7e3cd1799155039409aaf015e588ab4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Entry - Information.png using Guid(7e3cd1799155039409aaf015e588ab4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c758ba645956567e0b333d4cadf70e5') in 0.018982 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Entry - Name.png
-  artifactKey: Guid(cef1f6a974dae9e469cc516d05e1bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Entry - Name.png using Guid(cef1f6a974dae9e469cc516d05e1bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0604bea2ee205675e81546bc888eb0b3') in 0.017574 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Montser Asset Place Holder.png
-  artifactKey: Guid(e51767bc448a05c40a495e0ecbdd4bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Montser Asset Place Holder.png using Guid(e51767bc448a05c40a495e0ecbdd4bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e81bf8b78b3397328bd7e76318518f2') in 0.018126 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Return Camera Change.png
-  artifactKey: Guid(b260cd6d3fe920b43ad135a13cd851a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Return Camera Change.png using Guid(b260cd6d3fe920b43ad135a13cd851a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bbf182192a80b26433e536688e56ac1') in 0.022398 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 1 - Camera Change.png
-  artifactKey: Guid(60f2bfc2be31a7e4c8e5c432fcd267b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 1 - Camera Change.png using Guid(60f2bfc2be31a7e4c8e5c432fcd267b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766dbb8da22dfe90af22c109235cac83') in 0.022718 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 3 - Camera Change.png
-  artifactKey: Guid(84a4b93880271fe4d882fd6a4e82528f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 3 - Camera Change.png using Guid(84a4b93880271fe4d882fd6a4e82528f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89375965713a3fa8ca86fb12e380a534') in 0.018131 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 3 - Camera Change.png
-  artifactKey: Guid(3d68df8430c6e1e48863b0e212c313a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 3 - Camera Change.png using Guid(3d68df8430c6e1e48863b0e212c313a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05090c793b5ffc803598f1b854b101cc') in 0.017304 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Entry - Class.png
-  artifactKey: Guid(c97a3914def09794b80c024cad4294ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Entry - Class.png using Guid(c97a3914def09794b80c024cad4294ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f1364636bf2eb4f0c73dbc9add2689') in 0.019174 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Monster Category - Camera Change.png
-  artifactKey: Guid(d8e094d13480f554aa42b5dd8f7b74b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Monster Category - Camera Change.png using Guid(d8e094d13480f554aa42b5dd8f7b74b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9013c5223eacbc00c8aab4d13e53bc') in 0.018992 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000138 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Diving Bell - Camera Change.png
-  artifactKey: Guid(368478b481b78074f8b25e180212086c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Diving Bell - Camera Change.png using Guid(368478b481b78074f8b25e180212086c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b0a19932a7d1726f05a7256d51fd7e') in 0.017930 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Entry - Picture.png
-  artifactKey: Guid(956dd202a3b24404db5fd80a42548e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Entry - Picture.png using Guid(956dd202a3b24404db5fd80a42548e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391459f3a034ed8ebe1c89479da5a4b0') in 0.018950 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal Activate Camera.png
-  artifactKey: Guid(ddbf250ab83c6024f88204b41b8eee3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal Activate Camera.png using Guid(ddbf250ab83c6024f88204b41b8eee3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351669d57866b1d1311fc5a8f2b9cf57') in 0.018281 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 5 - Camera Change.png
-  artifactKey: Guid(2ca1cc36e9ff369499055ee90430e568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 5 - Camera Change.png using Guid(2ca1cc36e9ff369499055ee90430e568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d92cfca8b03366318c8d30435b0ae7') in 0.022048 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 3 - Camera Change.png
-  artifactKey: Guid(7eea287ab529ce741999c0e2f10a736d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 3 - Camera Change.png using Guid(7eea287ab529ce741999c0e2f10a736d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9370afe2889325ca28e4a6bf472a8c4') in 0.019414 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 5 - Camera Change.png
-  artifactKey: Guid(848cd5428ed0e644c9cdfc2e79bb5af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 5 - Camera Change.png using Guid(848cd5428ed0e644c9cdfc2e79bb5af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e39ea138c1b9a191c9f6ecbd35f0abe') in 0.017478 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 2 - Camera Change.png
-  artifactKey: Guid(8d91bed01e69f7d488181cc7152d6341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 2 - Camera Change.png using Guid(8d91bed01e69f7d488181cc7152d6341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3598ab99823ee115db5dbc6b6e703d26') in 0.020348 seconds 
+  Time since last request: 0.000481 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat
+  artifactKey: Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat using Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6537e7f96a47d0cfe6b0eaa300f7c6cb') in 0.017338 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000189 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 1 - Camera Change.png
-  artifactKey: Guid(de64c231abc876e4c8663fe3f5954b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 1 - Camera Change.png using Guid(de64c231abc876e4c8663fe3f5954b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81522807bab2792bae85b0e7cbb93a22') in 0.019454 seconds 
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat
+  artifactKey: Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat using Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf5e5c859a7d3284dd0aea080a8f816') in 0.161649 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Fish Category - Camera Change.png
-  artifactKey: Guid(658770584669d1241b1660c9cf482c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Fish Category - Camera Change.png using Guid(658770584669d1241b1660c9cf482c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a58debfa21cc1e859eeb71a05e0d199') in 0.018564 seconds 
+  Time since last request: 0.000155 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
+  artifactKey: Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat using Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a492e9f23b263614d894aa8101d37c0') in 0.014722 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 2 - Camera Change.png
-  artifactKey: Guid(e02b0fd4204da734eaa7b402d3c1db84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Monster Entry 2 - Camera Change.png using Guid(e02b0fd4204da734eaa7b402d3c1db84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d337a6f3856539448e224c6e4e13de3') in 0.018451 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Diary Category Camera Change.png
-  artifactKey: Guid(383c97507dd21b44592b1cdcbdcfd219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Diary Category Camera Change.png using Guid(383c97507dd21b44592b1cdcbdcfd219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7baa92b0ed013d6902addf54e6be7ec2') in 0.041104 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 2 - Camera Change.png
-  artifactKey: Guid(d1d0fc92dc1799c459a167eab74e3582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 2 - Camera Change.png using Guid(d1d0fc92dc1799c459a167eab74e3582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5952b7cd4ebc3d4634d5cfbac64b74a2') in 0.018136 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 4 - Camera Change.png
-  artifactKey: Guid(e10ea77339e79174ca41a84a24a5451f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal -  Fish Entry 4 - Camera Change.png using Guid(e10ea77339e79174ca41a84a24a5451f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6796b56613e82160dd71db4bc0a0de60') in 0.019499 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 4 - Camera Change.png
-  artifactKey: Guid(5c90ad721ec1dfc46b792dfdbe798e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/Journal - Creature Entry 4 - Camera Change.png using Guid(5c90ad721ec1dfc46b792dfdbe798e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21b6cdd0b13ef612743d5eced1ac001') in 0.025713 seconds 
+  Time since last request: 0.000227 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc6bc0e00fd8116389efcf82ed237c7') in 0.024210 seconds 
 ========================================================================
 Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006340 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 162.14 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.425 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1426ms)
-		BeginReloadAssembly (135ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (43ms)
-		EndReloadAssembly (1230ms)
-			LoadAssemblies (116ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (365ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (324ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (92ms)
-				ProcessInitializeOnLoadAttributes (210ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (23ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4763 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.73 GB.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.8 MB.
+System memory in use after: 87.1 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6172.
-Total: 4.532300 ms (FindLiveObjects: 0.451200 ms CreateObjectMapping: 0.274900 ms MarkObjects: 3.772900 ms  DeleteObjects: 0.032100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006495 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.96 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.313 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1313ms)
-		BeginReloadAssembly (162ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (43ms)
-		EndReloadAssembly (1085ms)
-			LoadAssemblies (132ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (404ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (379ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (97ms)
-				ProcessInitializeOnLoadAttributes (246ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (17ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (26ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.20 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.72 GB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6175.
-Total: 4.661600 ms (FindLiveObjects: 0.501700 ms CreateObjectMapping: 0.322900 ms MarkObjects: 3.815700 ms  DeleteObjects: 0.020300 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5333.
+Total: 9.157400 ms (FindLiveObjects: 0.406400 ms CreateObjectMapping: 0.272000 ms MarkObjects: 8.313900 ms  DeleteObjects: 0.162600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -794,356 +189,69 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1124.372018 seconds.
-  path: Assets/Sound of Mind - Place Holders 1/index.jpg
-  artifactKey: Guid(81ae37dc30ba8514588836c4f258553d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sound of Mind - Place Holders 1/index.jpg using Guid(81ae37dc30ba8514588836c4f258553d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69012c7f61576bcb622b2f42de7cbe1f') in 0.086306 seconds 
+  Time since last request: 1113.791823 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(9d683aff778a4cc4796d59358f646c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(9d683aff778a4cc4796d59358f646c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68432790811c3c4cd89bda1bfbffc55') in 0.015686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.686608 seconds.
+  path: Assets/Custom scripts
+  artifactKey: Guid(9d683aff778a4cc4796d59358f646c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom scripts using Guid(9d683aff778a4cc4796d59358f646c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08fb8b8a2408e3dff1f09ac01b5f642') in 0.007096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.383338 seconds.
+  path: Assets/Custom scripts/Colour change.cs
+  artifactKey: Guid(17c5779b57cbc3c4380dc51b455fd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom scripts/Colour change.cs using Guid(17c5779b57cbc3c4380dc51b455fd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935a2e0cb6738e2c5a3b73b277e7d8cf') in 0.017436 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006433 seconds.
+Registered in 0.011261 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.00 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.24 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.317 seconds
+- Completed reload, in  1.483 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1317ms)
-		BeginReloadAssembly (172ms)
+	ReloadAssembly (1483ms)
+		BeginReloadAssembly (204ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
+			DisableScriptedObjects (17ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (54ms)
-		EndReloadAssembly (1077ms)
-			LoadAssemblies (125ms)
+		EndReloadAssembly (1208ms)
+			LoadAssemblies (142ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (414ms)
+			SetupTypeCache (448ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (361ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (353ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (91ms)
-				ProcessInitializeOnLoadAttributes (245ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (9ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.72 GB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6196.
-Total: 4.920800 ms (FindLiveObjects: 0.575300 ms CreateObjectMapping: 0.479000 ms MarkObjects: 3.841900 ms  DeleteObjects: 0.023400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006449 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.136 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1136ms)
-		BeginReloadAssembly (130ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (947ms)
-			LoadAssemblies (108ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (356ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (318ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (89ms)
-				ProcessInitializeOnLoadAttributes (206ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.72 GB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6199.
-Total: 4.559500 ms (FindLiveObjects: 0.709500 ms CreateObjectMapping: 0.304300 ms MarkObjects: 3.524900 ms  DeleteObjects: 0.019400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Switching render pipeline b0a2c8dd8ba36cb41a57713a34f167b2 -> 00000000000000000000000000000000
-Refreshing native plugins compatible for Editor in 5.41 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.63 GB.
-System memory in use after: 0.63 GB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6194.
-Total: 4.058200 ms (FindLiveObjects: 0.419000 ms CreateObjectMapping: 0.252100 ms MarkObjects: 3.088000 ms  DeleteObjects: 0.298400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 242.449805 seconds.
-  path: Assets/GameObject.prefab
-  artifactKey: Guid(3ac9f931e54061942a0aa88980b69987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GameObject.prefab using Guid(3ac9f931e54061942a0aa88980b69987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b927205b7632760d4a518633d043ef3c') in 0.034822 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006428 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.148 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1148ms)
-		BeginReloadAssembly (131ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (957ms)
-			LoadAssemblies (113ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (358ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (330ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (97ms)
-				ProcessInitializeOnLoadAttributes (209ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (10ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.72 GB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6199.
-Total: 4.327300 ms (FindLiveObjects: 0.427500 ms CreateObjectMapping: 0.246000 ms MarkObjects: 3.634100 ms  DeleteObjects: 0.018900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 124.785372 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a4034d3d715da871e781da702f0bc5') in 0.009492 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.187864 seconds.
-  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
-  artifactKey: Guid(331a3717f13bb3c4fa7f960372ad73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(331a3717f13bb3c4fa7f960372ad73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da12af7379d895feecf7cbe67c3beec5') in 0.020686 seconds 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 5.41 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.63 GB.
-System memory in use after: 0.63 GB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 6201.
-Total: 5.049500 ms (FindLiveObjects: 0.625800 ms CreateObjectMapping: 0.587500 ms MarkObjects: 3.817600 ms  DeleteObjects: 0.018200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 78.753329 seconds.
-  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
-  artifactKey: Guid(331a3717f13bb3c4fa7f960372ad73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(331a3717f13bb3c4fa7f960372ad73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6890cd69b282f80c4ffc254e393812ee') in 0.004546 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006612 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.166 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1166ms)
-		BeginReloadAssembly (137ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (42ms)
-		EndReloadAssembly (971ms)
-			LoadAssemblies (108ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (371ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (323ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (91ms)
-				ProcessInitializeOnLoadAttributes (211ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (22ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.02 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.73 GB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6204.
-Total: 4.360100 ms (FindLiveObjects: 0.540100 ms CreateObjectMapping: 0.257600 ms MarkObjects: 3.541900 ms  DeleteObjects: 0.019700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009003 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.365 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1365ms)
-		BeginReloadAssembly (160ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (53ms)
-		EndReloadAssembly (1134ms)
-			LoadAssemblies (135ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (429ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (55ms)
-			SetupLoadedEditorAssemblies (376ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (100ms)
-				ProcessInitializeOnLoadAttributes (252ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (230ms)
 				ProcessInitializeOnLoadMethodAttributes (10ms)
 				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (27ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.46 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.73 GB.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.9 MB.
+System memory in use after: 181.1 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6207.
-Total: 5.876700 ms (FindLiveObjects: 0.633300 ms CreateObjectMapping: 0.987700 ms MarkObjects: 4.233800 ms  DeleteObjects: 0.020800 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5337.
+Total: 4.157400 ms (FindLiveObjects: 0.370800 ms CreateObjectMapping: 0.220500 ms MarkObjects: 3.523900 ms  DeleteObjects: 0.041400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1158,50 +266,120 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.009243 seconds.
+Registered in 0.006824 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.17 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.47 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.280 seconds
+- Completed reload, in  1.446 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1281ms)
-		BeginReloadAssembly (157ms)
+	ReloadAssembly (1447ms)
+		BeginReloadAssembly (194ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (44ms)
-		EndReloadAssembly (1057ms)
-			LoadAssemblies (123ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (1157ms)
+			LoadAssemblies (149ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (409ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (354ms)
+			SetupTypeCache (485ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (341ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (93ms)
-				ProcessInitializeOnLoadAttributes (238ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (218ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
 				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (26ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.73 GB.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.0 MB.
+System memory in use after: 181.2 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6210.
-Total: 4.068700 ms (FindLiveObjects: 0.548900 ms CreateObjectMapping: 0.287300 ms MarkObjects: 3.214100 ms  DeleteObjects: 0.017600 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5340.
+Total: 5.097600 ms (FindLiveObjects: 0.359300 ms CreateObjectMapping: 0.219000 ms MarkObjects: 4.496700 ms  DeleteObjects: 0.021600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 36.578636 seconds.
+  path: Assets/Custom scripts/Colour change.cs
+  artifactKey: Guid(17c5779b57cbc3c4380dc51b455fd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom scripts/Colour change.cs using Guid(17c5779b57cbc3c4380dc51b455fd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff620e008c4ccbbc12d138807d9728e7') in 0.012102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.481374 seconds.
+  path: Assets/Custom scripts/ChangeColor.cs
+  artifactKey: Guid(17c5779b57cbc3c4380dc51b455fd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom scripts/ChangeColor.cs using Guid(17c5779b57cbc3c4380dc51b455fd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3dee36b8fca23525d06f8bd355573b') in 0.006685 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008085 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.537 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1537ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (1319ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (599ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (405ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (267ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.9 MB.
+System memory in use after: 181.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5343.
+Total: 4.529300 ms (FindLiveObjects: 0.401100 ms CreateObjectMapping: 0.218800 ms MarkObjects: 3.885700 ms  DeleteObjects: 0.022700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1216,7 +394,123 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006255 seconds.
+Registered in 0.006867 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.440 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1440ms)
+		BeginReloadAssembly (128ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1246ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (581ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (348ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (227ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.0 MB.
+System memory in use after: 181.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5346.
+Total: 4.913200 ms (FindLiveObjects: 0.522100 ms CreateObjectMapping: 0.301000 ms MarkObjects: 4.064500 ms  DeleteObjects: 0.024400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006645 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.393 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1393ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1193ms)
+			LoadAssemblies (111ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (455ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (410ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (279ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.9 MB.
+System memory in use after: 181.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5349.
+Total: 4.011300 ms (FindLiveObjects: 0.367900 ms CreateObjectMapping: 0.223700 ms MarkObjects: 3.393400 ms  DeleteObjects: 0.025200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006514 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
@@ -1224,42 +518,42 @@ Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.120 seconds
+- Completed reload, in  1.439 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1120ms)
-		BeginReloadAssembly (134ms)
+	ReloadAssembly (1440ms)
+		BeginReloadAssembly (137ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (927ms)
-			LoadAssemblies (102ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (1228ms)
+			LoadAssemblies (121ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (344ms)
+			SetupTypeCache (551ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (317ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (367ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (208ms)
-				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (237ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (9ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 0.72 GB.
-System memory in use after: 0.73 GB.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.1 MB.
+System memory in use after: 181.3 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6213.
-Total: 5.163800 ms (FindLiveObjects: 0.477900 ms CreateObjectMapping: 0.473300 ms MarkObjects: 4.186400 ms  DeleteObjects: 0.025100 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5352.
+Total: 12.676700 ms (FindLiveObjects: 0.801400 ms CreateObjectMapping: 0.370700 ms MarkObjects: 11.465100 ms  DeleteObjects: 0.038200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1271,4 +565,132 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010786 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.428 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1428ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1229ms)
+			LoadAssemblies (114ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (579ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (349ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (227ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.1 MB.
+System memory in use after: 181.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5355.
+Total: 4.511000 ms (FindLiveObjects: 0.381400 ms CreateObjectMapping: 0.236300 ms MarkObjects: 3.855700 ms  DeleteObjects: 0.036300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006965 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\kaval\OneDrive\Documents\GitHub\Sound-Mind\sound mind\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.03 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.741 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1742ms)
+		BeginReloadAssembly (157ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1515ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (750ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (394ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (264ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.1 MB.
+System memory in use after: 181.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5358.
+Total: 4.821000 ms (FindLiveObjects: 0.475100 ms CreateObjectMapping: 0.384000 ms MarkObjects: 3.935300 ms  DeleteObjects: 0.025300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 819.954678 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(f021e44e875c8d4459e244a6224d375e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(f021e44e875c8d4459e244a6224d375e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec04a67d45eff11c45d57536c0556f2') in 0.024193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.801947 seconds.
+  path: Assets/Fish.prefab
+  artifactKey: Guid(33de94545853ad14bb5543f0ea2346c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fish.prefab using Guid(33de94545853ad14bb5543f0ea2346c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc41c2beefa3a2d02845f5ef5f5f0550') in 0.223400 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
