@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637869117931380124
-    m_Hash: 2711790958
+      ticks: 637875535806851959
+    m_Hash: 588755548
   m_LockFileStatus:
     m_FilePath: C:/Users/kaval/OneDrive/Documents/GitHub/Sound-Mind/sound mind/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637869117931439969
-    m_Hash: 2882661985
+      ticks: 637875535807041688
+    m_Hash: 239224126
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -836,6 +836,7 @@ m_ResolvedPackages:
     - 1.14.13
     - 1.14.15
     - 1.14.16
+    - 1.14.17
     - 1.15.1
     - 1.15.4
     - 1.15.7
@@ -844,6 +845,7 @@ m_ResolvedPackages:
     - 1.15.13
     - 1.15.15
     - 1.15.16
+    - 1.15.17
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -866,6 +868,7 @@ m_ResolvedPackages:
     - 1.14.13
     - 1.14.15
     - 1.14.16
+    - 1.14.17
     - 1.15.1
     - 1.15.4
     - 1.15.7
@@ -874,6 +877,7 @@ m_ResolvedPackages:
     - 1.15.13
     - 1.15.15
     - 1.15.16
+    - 1.15.17
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
