@@ -353,6 +353,7 @@
 "Assets/Custom scripts/ChangeColor.cs"
 "Assets/Custom scripts/DepthManager.cs"
 "Assets/Custom scripts/fish.cs"
+"Assets/Detection.cs"
 "Assets/Manos Flat Pack/Scripts/CameraStand.cs"
 "Assets/Manos Flat Pack/Scripts/Countdown.cs"
 "Assets/Manos Flat Pack/Scripts/Draggable.cs"
