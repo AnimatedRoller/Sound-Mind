@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6024430187720238350}
   m_Layer: 0
   m_Name: 'Fish sprite '
-  m_TagString: Untagged
+  m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 6024430187935303843}
   m_Layer: 0
   m_Name: Fish shilouette
-  m_TagString: Untagged
+  m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -190,9 +190,11 @@ GameObject:
   m_Component:
   - component: {fileID: 6024430188238063745}
   - component: {fileID: 9155677162544413467}
+  - component: {fileID: 5823833626817014457}
+  - component: {fileID: 358366177}
   m_Layer: 0
   m_Name: Fish
-  m_TagString: Untagged
+  m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -225,3 +227,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93952f4e2f81efa4ea7734dea9b2560a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!60 &5823833626817014457
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6024430188238063746}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.509037, y: -0.7442999}
+      - {x: -0.7530289, y: -1.1181519}
+      - {x: -1.0930982, y: -1.6557578}
+      - {x: 0.041500688, y: -1.6557586}
+      - {x: -0.27125645, y: -1.1796093}
+--- !u!50 &358366177
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6024430188238063746}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 0.0001
+  m_LinearDrag: 0
+  m_AngularDrag: 0
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
