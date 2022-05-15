@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Monster
   - Entity
+  - Fish
   layers:
   - Default
   - TransparentFX

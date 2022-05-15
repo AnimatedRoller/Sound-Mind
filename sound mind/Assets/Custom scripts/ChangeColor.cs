@@ -14,6 +14,7 @@ public class ChangeColor : MonoBehaviour
     private void Start()
     {
 
+        
         // Assign Sprite Renderer Component to rend variable
         rend = GetComponent<SpriteRenderer>();
 
