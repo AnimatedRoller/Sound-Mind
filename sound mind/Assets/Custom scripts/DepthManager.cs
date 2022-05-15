@@ -16,7 +16,7 @@ public class DepthManager : MonoBehaviour
 
     void Start()
     {         
-        InvokeRepeating("depthChange", 10, 10);           
+        InvokeRepeating("depthChange", 60, 60);           
         InvokeRepeating("sanityChange", 30, 30);
     }
     void depthChange()
